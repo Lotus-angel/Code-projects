@@ -1,0 +1,29 @@
+ body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.project h2 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.project pre {
+    background: #f4f4f4;
+    padding: 10px;
+    overflow: auto;
+}
